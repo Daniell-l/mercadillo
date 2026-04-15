@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Inventario.xsl"?>
+
+<inventario>
+    <item>
+        <id>1</id>
+        <nombre>Bicicleta</nombre>
+        <categoria>Deporte</categoria>
+        <estado>Usado</estado>
+        <propietario>Daniel</propietario>
+        <descripcion>Bicicleta de montaña en buen estado</descripcion>
+    </item>
+
+    <item>
+        <id>2</id>
+        <nombre>Pingüino Linux</nombre>
+        <categoria>Educación</categoria>
+        <estado>Nuevo</estado>
+        <propietario>Javier</propietario>
+        <descripcion>Peluche del pingüino de linux</descripcion>
+    </item>
+
+    <item>
+        <id>3</id>
+        <nombre>Videojuego FIFA</nombre>
+        <categoria>Ocio</categoria>
+        <estado>Usado</estado>
+        <propietario>Delfín</propietario>
+        <descripcion>FIFA 23</descripcion>
+    </item>
+
+    <item>
+        <id>4</id>
+        <nombre>Mochila</nombre>
+        <categoria>Accesorios</categoria>
+        <estado>Usado</estado>
+        <propietario>Ángel</propietario>
+        <descripcion>Mochila escolar resistente</descripcion>
+    </item>
+
+    <item>
+        <id>5</id>
+        <nombre>Auriculares</nombre>
+        <categoria>Tecnología</categoria>
+        <estado>Nuevo</estado>
+        <propietario>Pedro</propietario>
+        <descripcion>Auriculares inalámbricos</descripcion>
+    </item>
+</inventario>
