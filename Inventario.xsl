@@ -147,7 +147,7 @@
                         <div class="qr-zona">
                             <img alt="Código QR de información del producto">
                                 <xsl:attribute name="src">
-                                    <xsl:value-of select="concat('https://api.qrserver.com/v1/create-qr-code/?data=detalle', id, '.html')"/>
+                                    <xsl:value-of select="concat('https://Daniell-l.github.io/mercadillo/detalle', id, '.html')"/>
                                 </xsl:attribute>
                             </img>
                             <p class="qr-help">Escanea para ver detalles en tu móvil</p>
